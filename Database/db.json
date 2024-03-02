@@ -1,0 +1,31 @@
+{
+    "user" : [
+        {
+            "id": 1,
+            "categoryName": "Shoes",
+            "description": "Sincere@april.biz",
+            "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60"
+        },
+        {
+            "id": 2,
+            "categoryName": "Jackes",
+            "description": "Shanna@melissa.tv",
+            "imageUrl" : "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60"
+        },
+        {
+            "id": 3,
+            "categoryName": "Soaps",
+            "description": "Nathan@yesenia.net",
+            "imageUrl" : "https://images.unsplash.com/photo-1503185912284-5271ff81b9a8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60"
+        
+            
+        },
+        {
+            "id": 4,
+            "categoryName": "Food",
+            "description": "Patricia Lebsack",
+            "imageUrl" : "https://images.unsplash.com/photo-1545912452-8aea7e25a3d3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60"
+            
+        }
+    ]
+}
